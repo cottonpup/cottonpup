@@ -5,6 +5,7 @@
 - 🤖 HTML, CSS / Javascript, React, Java, SQL / Lodash / Parcel, Babel 
 - 📫 이메일: [Emily](mailto:younggyoung.lee1@gmail.com)
 - 🔉 언어: 한국어와 영어를 구사합니다. 
+- 👩🏻‍💻: 티스토리 블로그 => https://emily1206.tistory.com/
 
 ---------------------------------------------------------------------
 
