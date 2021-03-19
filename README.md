@@ -5,9 +5,6 @@
 - 🤖 HTML, CSS / Javascript, React, Java, SQL / Lodash / Parcel, Babel 
 - 📫 이메일: [Emily](mailto:younggyoung.lee1@gmail.com)
 - 🔉 언어: 한국어와 영어를 구사합니다. 
-- 👩🏻‍💻: Notion 블로그 => https://preview.oopy.io/2f635e9a-19a4-45c6-a921-ffc99d550654
-- 👩🏻‍💻: Velog 블로그 => https://velog.io/@cottonpup1206
-
 ---------------------------------------------------------------------
 
 ### Hi there 👋
