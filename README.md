@@ -4,5 +4,5 @@
 - Always documentation
 - Like to work with people
 - “Can-do” attitude
-- I believe practice makes you better all the time.
+- I believe practice makes you better all the time
 - Consistency is more important than intensity
