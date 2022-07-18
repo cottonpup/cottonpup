@@ -1,5 +1,3 @@
-----------------------------------------------------------------------
-
 ## Hi there 👋 I'm Younggyoung Lee.
 
 - Mainly Frontend, but also interested in Backend
