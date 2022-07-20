@@ -7,5 +7,6 @@
 - I believe practice makes you better all the time
 - Consistency is more important than intensity
 
+---
 
-[Check my resume!](https://personal-portfolio-seven-swart.vercel.app/)
+> [More about me](https://personal-portfolio-seven-swart.vercel.app/)
