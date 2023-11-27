@@ -7,3 +7,4 @@
 - I believe practice makes you better all the time
 - Consistency is more important than intensity
 
+[More rabbit hole about me 🤔?](https://cottonpup.vercel.app/)
