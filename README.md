@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Younggyoung Lee.
 
+<br/>
+
 - Mainly Frontend, but also interested in Backend
 - Always try to do documentation
 - Like to work with people
@@ -7,4 +9,6 @@
 - I believe practice makes you better all the time
 - Consistency is more important than intensity
 
-[More rabbit hole about me 🤔?](https://cottonpup.vercel.app/)
+<br/>
+
+[Hey! More rabbit hole about me 🤔?](https://cottonpup.vercel.app/)
